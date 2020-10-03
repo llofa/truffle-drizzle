@@ -1,5 +1,5 @@
 import React from "react";
-import Greeter from "./artifacts/Greeter.json";
+import Greeter from "./abis/Greeter.json";
 import { DrizzleProvider } from "@drizzle/react-plugin";
 import {
   LoadingContainer,
