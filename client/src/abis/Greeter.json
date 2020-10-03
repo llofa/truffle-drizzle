@@ -25,7 +25,8 @@
         }
       ],
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "constant": true
     }
   ],
   "metadata": "{\"compiler\":{\"version\":\"0.6.0+commit.26b70077\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"get\",\"outputs\":[{\"internalType\":\"string\",\"name\":\"\",\"type\":\"string\"}],\"stateMutability\":\"view\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"string\",\"name\":\"_greeting\",\"type\":\"string\"}],\"name\":\"set\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/Users/llofa/dev/projects/Surprizes/clients/drizzle_example/contracts/Greeter.sol\":\"Greeter\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/llofa/dev/projects/Surprizes/clients/drizzle_example/contracts/Greeter.sol\":{\"keccak256\":\"0xe903543b2719a2576604b8ce90ee5861868a98d01ef663365e771694848e0f9e\",\"urls\":[\"bzz-raw://cb5528e385f3a85aa27c02babd70dc57ed5b014cbc095c0a39a13cd0e85c2c1c\",\"dweb:/ipfs/QmceHxc1a4AYHtMyJMgg5YgoNZKunzFq2xKn3A4pJNXKHC\"]}},\"version\":1}",
@@ -597,12 +598,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x2B48B3f379AE5D52357C0650B225348723d387bD",
-      "transactionHash": "0x85f3c1777de88f18491fe23b5971a2fa831fb100c9b3acc815709a05aced10a0"
+      "address": "0xC660399F01e0939C15467162A38537429AA2Dd6a",
+      "transactionHash": "0xfef757b0306a93182c612237899b3b63f7419d0dccec27d65495bbbdd2fc6aee"
     }
   },
   "schemaVersion": "3.2.3",
-  "updatedAt": "2020-10-03T01:49:06.790Z",
+  "updatedAt": "2020-10-03T08:39:28.242Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
